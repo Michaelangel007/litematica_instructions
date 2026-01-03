@@ -153,7 +153,7 @@ To goto a a folder direclty in your OS:
 ## Printer Mode - Block by Block
 
 11. With the placement aligned, use `Ctrl-MouseWheel` and switch to mode `[3/9]: Fill`
-12. Make sure `easyPlaceMod` and `easyPlaceHoldEnabled` are on.
+12. Make sure `easyPlaceMode` and `easyPlaceHoldEnabled` are on.
    To turn this on press `m` to bring up Litematica menu, `Configuration menu` > `Generic`
 13. Switch OFF of the _Stick_ block.
 14. Destroy blocks (left-click) and Place blocks (right-click)
